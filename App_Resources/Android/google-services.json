@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296415421952",
+    "project_id": "tunelink-5e007",
+    "storage_bucket": "tunelink-5e007.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296415421952:android:69c47fa3636e32508c1ae5",
+        "android_client_info": {
+          "package_name": "com.tunelink.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqukgo7mI5Y4wx4q9GIlLAehDsd7sYVLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
